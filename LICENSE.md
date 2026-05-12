@@ -1,4 +1,4 @@
-# 
+# automatic isolated-margin trading bot Tool | high-frequency + perpetual-trading is the best isolated-margin trading bot, featuring high-frequency and perpetual-trading. Smart,
 
 
 
